@@ -1,3 +1,2 @@
 # Portfolio
-This is an example of a live website I created that links to my GitHub account to view all of the projects that I have created 
-in my Repositories. It is styled using CSS and contains, a navbar, links, photo and video overlays and more.
+This is a live website I created as my portfolio that links to my GitHub, LinkedIn account and examples of some of the projects I completed during my time a The Tech Academy. I utilized CSS,  and contains, a navbar, links, photo and video overlays and more.
